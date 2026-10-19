@@ -174,6 +174,3 @@ def get_valid_integer(prompt, minimum, maximum=None):
 
 if __name__ == "__main__":
     main()
-
-if __name__ == '__main__':
-    main()
